@@ -40,11 +40,19 @@
 The Weather App website integrates with a weather-based API to fetch weather data. You can choose any reliable weather API that provides the necessary data (such as temperature, conditions, humidity, wind speed, etc.) in a JSON format.
 
 In the JavaScript code (script.js), locate the section where the API call is made and replace the placeholder API URL with the actual URL of the weather API you're using.
+<br>
+<br>
 
-License
+## License
 This project is licensed under the MIT License. You're free to use, modify, and distribute the code for personal or commercial purposes. However, the project comes with no warranty, and the developers are not responsible for any inaccuracies in the weather data provided by the API.
+<br>
+<br>
 
-Support
+## Support
 For any issues, questions, or suggestions, please feel free to open an issue on the project's GitHub repository.
 
 Stay informed about the weather in style with the Weather App website!
+<br>
+<br>
+
+# Screenshots
