@@ -26,18 +26,17 @@
 <br>
 
 
-Development
-If you want to contribute to the development of this Weather App website or make improvements, follow these steps:
+## Development
+<p>If you want to contribute to the development of this Weather App website or make improvements, follow these steps:</p>
+<ul>
+  <li>Fork the repository and clone it to your local machine.</li>
+  <li>Make your desired changes and enhancements to the code.</li>
+  <li>Test the changes thoroughly to ensure they work as expected.</li>
+  <li>Create a pull request to submit your changes for review.</li>
+</ul>
+<br>
 
-Fork the repository and clone it to your local machine.
-
-Make your desired changes and enhancements to the code.
-
-Test the changes thoroughly to ensure they work as expected.
-
-Create a pull request to submit your changes for review.
-
-API Integration
+## API Integration
 The Weather App website integrates with a weather-based API to fetch weather data. You can choose any reliable weather API that provides the necessary data (such as temperature, conditions, humidity, wind speed, etc.) in a JSON format.
 
 In the JavaScript code (script.js), locate the section where the API call is made and replace the placeholder API URL with the actual URL of the weather API you're using.
