@@ -5,30 +5,26 @@
 
 ## How to Use
 <ul>
-  <li></li>
+  <li>Clone the repository or download the source code to your local machine.</li>
+  <li>Open the index.html file in your web browser.</li>
+  <li>You'll be presented with a simple and user-friendly interface.</li>
+  <li>Enter the name of the city you want to know the weather for in the provided input field.</li>
+  <li>Click the "Search" button or press Enter to fetch and display the weather information for the specified city.</li>
+  <li>The weather information will be displayed, including the current temperature, weather conditions, humidity, wind speed, and more.</li>
 </ul>
-Clone the repository or download the source code to your local machine.
+<br>
 
-Open the index.html file in your web browser.
 
-You'll be presented with a simple and user-friendly interface.
+## Features
+<ul>
+    <li><b>Weather Data:</b> The website fetches weather data using a weather-based API to provide accurate and up-to-date information.</li>
+    <li><b>City Search:</b> Users can enter the name of the city they want to know the weather for, making it easy to get weather updates for different locations.</li>
+    <li><b>Temperature Units:</b> The website displays temperature in Celsius by default.</li>
+    <li><b>Responsive Design:</b> The website is designed to be responsive, ensuring a consistent and enjoyable user experience across different devices and screen sizes.</li>
+    <li><b>Visual Representation:</b> Depending on the weather conditions (e.g., clear sky, rain, snow), appropriate icons or images can be displayed to visually represent the weather.</li>
+</ul>
+<br>
 
-Enter the name of the city you want to know the weather for in the provided input field.
-
-Click the "Search" button or press Enter to fetch and display the weather information for the specified city.
-
-The weather information will be displayed, including the current temperature, weather conditions, humidity, wind speed, and more.
-
-Features
-Weather Data: The website fetches weather data using a weather-based API to provide accurate and up-to-date information.
-
-City Search: Users can enter the name of the city they want to know the weather for, making it easy to get weather updates for different locations.
-
-Temperature Units: The website displays temperature in Celsius by default, but you can easily extend it to show temperature in Fahrenheit or other units as well.
-
-Responsive Design: The website is designed to be responsive, ensuring a consistent and enjoyable user experience across different devices and screen sizes.
-
-Visual Representation: Depending on the weather conditions (e.g., clear sky, rain, snow), appropriate icons or images can be displayed to visually represent the weather.
 
 Development
 If you want to contribute to the development of this Weather App website or make improvements, follow these steps:
