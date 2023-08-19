@@ -1,8 +1,12 @@
 <h1 align="center">Weather App Website Readme</h1> 
 <br>
-Welcome to the Weather App website! This website is built using HTML, CSS, and JavaScript, and it allows you to fetch weather data from a weather-based API to display the current weather of a city of your choice.
+<p>Welcome to the Weather App website!<br> This website is built using HTML, CSS, and JavaScript, and it allows you to fetch weather data from a weather-based API to display the current weather of a city of your choice.</p>
+<br>
 
-How to Use
+## How to Use
+<ul>
+  <li></li>
+</ul>
 Clone the repository or download the source code to your local machine.
 
 Open the index.html file in your web browser.
