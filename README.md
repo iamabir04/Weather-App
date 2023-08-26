@@ -56,4 +56,6 @@ Stay informed about the weather in style with the Weather App website!
 
 # Screenshots
 ![1](https://github.com/iamabir04/Weather-App/assets/108453813/d622f114-99fe-402d-878e-96658a21b13d)
+![2](https://github.com/iamabir04/Weather-App/assets/108453813/8050e4f9-0434-4ced-bd74-ce24d0f876e9)
+
 
