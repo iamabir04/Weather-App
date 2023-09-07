@@ -5,6 +5,7 @@
 
 ## How to Use
 <ul>
+  
   <li>Clone the repository or download the source code to your local machine.</li>
   <li>Open the index.html file in your web browser.</li>
   <li>You'll be presented with a simple and user-friendly interface.</li>
