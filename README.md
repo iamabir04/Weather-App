@@ -14,6 +14,7 @@
 </ul>
 <br>
 
+
 ## Features
 <ul>
     <li><b>Weather Data:</b> The website fetches weather data using a weather-based API to provide accurate and up-to-date information.</li>
